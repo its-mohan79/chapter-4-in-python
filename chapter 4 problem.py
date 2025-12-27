@@ -28,6 +28,7 @@ print(fruits)
 
 #problem 2
 
+
 marks=[]
 
 m1=int(input("Enter your marks:"))
@@ -53,8 +54,6 @@ marks.append(m7)
 
 marks.sort()
 print(marks)
-
-
 
 
 
